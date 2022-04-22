@@ -1,5 +1,6 @@
 # dv-context-test
-Dev Samurai - Youtube - [REACT CONTEXT] O Guia Definitivo
+Dev Samurai - [REACT CONTEXT] O Guia Definitivo  
+[Youtube Video](https://www.youtube.com/watch?v=iHZIZ2wA1U4)
 
 ## Getting Started with Create React App
 
